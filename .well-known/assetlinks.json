@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "life.biziapp",
+      "sha256_cert_fingerprints":
+        ["54:67:65:12:3A:4A:52:1F:16:6F:0E:E4:52:AD:10:E0:45:D3:B8:29:18:F2:05:06:FF:15:9F:F0:99:81:41:C0"]
+    }
+  }
+]
